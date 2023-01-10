@@ -3,4 +3,4 @@
 ออกแบบอยากเดียวไม่มีโค๊ดด้านในนะครับ
 
 `โปรเจคนี้สามารถนำไปพัฒนาต่อได้ชิวๆเลย`
-![EX](https://cdn.discordapp.com/attachments/901560603104124969/985926392090869810/sdaf.png)
+![image](https://user-images.githubusercontent.com/69198341/211667764-4062b1ea-c34c-428d-a6db-a727e1c91807.png)
